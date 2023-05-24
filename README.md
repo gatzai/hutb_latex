@@ -1,10 +1,10 @@
 # 湖南工商大学论文模板
 ---
-本文参考 [湖南工商大学研究生课程论文（模板）2023版](https://gra.hutb.edu.cn/p179/tzgg/20230509/145869.html) 以及 [湖南工商大学硕士学位论文（格式）2022版](https://gra.hutb.edu.cn/xwgl2/137582.jhtml) 两个模板，使用 [Overleaf](https://www.overleaf.com/) 生成 Latex 模板。
+本文参考 [湖南工商大学研究生课程论文（模板）2023版](https://gra.hutb.edu.cn/p179/tzgg/20230509/145869.html) 以及 [湖南工商大学硕士学位论文（格式）2022版](https://gra.hutb.edu.cn/xwgl2/137582.jhtml) 两个模板，并使用 [Overleaf](https://www.overleaf.com/) 生成 Latex 模板，本仓库包含以下两个模板：
 1. 课程论文模板
 2. 硕士学位论文模板
 
-注意：其中《研究生课程论文评定》表格尚未放入模板中
+注意：其中《研究生课程论文评定》表格尚未放入课程论文模板中
 
 <!--more-->
 
