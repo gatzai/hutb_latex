@@ -15,14 +15,15 @@
 文档入口为 main.tex ，是导入相关章节的入口。
 
 文件结构如下：
+```tree 
 ├── bib
 │   └── bibtext.bib      % 引用文献
-├── figures     % 图片资源
+├── figures       % 图片资源
 ├── style         % 样式设置，导入相关包
 ├── text          % 主要内容
 ├── main.tex      % 文档入口
 └── SimSun.ttc    % 字体文件，宋体
-
+```
 
 ## 使用说明
 ---
